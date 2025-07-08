@@ -40,3 +40,4 @@ This mod makes extensive use of assets from other mods distributed under open li
 - A-7 by passinglurker for CobaltWolf's Bluedog Design Bureau (CC BY-NC-SA 4.0)
 - XLR-11 by Alvin Meng for Astral Manufactures (CC BY-NC-SA 4.0)
 - RS-88 by Zorg for DylanSemrau/SofieBrink/Zorg's Boring Crew Services (CC BY-NC-SA 4.0)
+- Plume Party by JadeOfMaar (CC BY-NC-SA 4.0)
